@@ -1,2 +1,0 @@
-# MyProject
-Phoenix is coding
